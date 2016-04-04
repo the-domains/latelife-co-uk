@@ -1,0 +1,28 @@
+name: Latelife.co.uk
+favicon: null
+layout_spectrum: 0.6971088335849345
+typography_spectrum: 0.9135164783801883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8344729393720627
+  lightness: 0.79330551228486
+  saturation: 0.508694512071088
+  rhythmicContrast: 0.7592349858023226
+purpose: []
